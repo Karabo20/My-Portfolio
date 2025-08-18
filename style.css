@@ -249,8 +249,9 @@ nav a:hover {
   margin-bottom: 3rem;
 }
 
-.media-icons i {
-  padding-right: 1rem;
+.media-icons a {
+  padding-right: 2rem;
+  scale: 1.8;
 }
 
 
