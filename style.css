@@ -142,12 +142,17 @@ nav a:hover {
 }
 
 .ability-card h3 {
-  font-weight: bolder;
+  font-weight: 900;
+  font-size: x-large;
   text-align: center;
 }
 
-.ability-card span {
-  font-weight: bold;
+.ability-card h4 {
+  font-weight: 700;
+}
+
+.ability-card  {
+  font-weight: normal;
 }
 .card p {
   font-size: small;
@@ -159,7 +164,7 @@ nav a:hover {
   align-items: center;
   gap: 3rem;
   width: 10rem;
-  background-color: #EBFFD8;
+  background-color: #cbddba;
   padding-top: 4rem;
 }
 
